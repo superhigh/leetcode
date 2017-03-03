@@ -1,0 +1,56 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set()
+[debug] 	added: Set(D:\intellij_Project\functioninscala2\leetcode\src\main\scala\Greedy\WordBreakII.scala, D:\intellij_Project\functioninscala2\leetcode\src\main\java\greedy\WordBreak.java)
+[debug] 	modified: Set(D:\intellij_Project\functioninscala2\leetcode\src\main\scala\Greedy\WordBreak.scala)
+[debug] Removed products: Set(D:\intellij_Project\functioninscala2\leetcode\target\scala-2.12\classes\Greedy\WordBreak$.class, D:\intellij_Project\functioninscala2\leetcode\target\scala-2.12\classes\Greedy\WordBreak.class)
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated sources: Set(D:\intellij_Project\functioninscala2\leetcode\src\main\scala\Greedy\WordBreakII.scala, D:\intellij_Project\functioninscala2\leetcode\src\main\scala\Greedy\WordBreak.scala, D:\intellij_Project\functioninscala2\leetcode\src\main\java\greedy\WordBreak.java)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set(D:\intellij_Project\functioninscala2\leetcode\src\main\scala\Greedy\WordBreak.scala)
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All initially invalidated sources: Set(D:\intellij_Project\functioninscala2\leetcode\src\main\scala\Greedy\WordBreakII.scala, D:\intellij_Project\functioninscala2\leetcode\src\main\scala\Greedy\WordBreak.scala, D:\intellij_Project\functioninscala2\leetcode\src\main\java\greedy\WordBreak.java)
+[info] Compiling 2 Scala sources and 1 Java source to D:\intellij_Project\functioninscala2\leetcode\target\scala-2.12\classes...
+[debug] Getting compiler-interface from component compiler for Scala 2.12.1
+[debug] Getting compiler-interface from component compiler for Scala 2.12.1
+[debug] Running cached compiler 571d8314, interfacing (CompilerInterface) with Scala compiler version 2.12.1
+[debug] Calling Scala compiler with arguments  (CompilerInterface):
+[debug] 	-bootclasspath
+[debug] 	C:\Program Files\Java\jdk1.8.0_101\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_101\jre\classes;C:\Users\tpusers\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.1.jar
+[debug] 	-classpath
+[debug] 	D:\intellij_Project\functioninscala2\leetcode\target\scala-2.12\classes
+[debug] Scala compilation took 6.145097748 s
+[debug] Attempting to call com.sun.tools.javac.api.JavacTool@59e684b5 directly...
+[debug] Java compilation took 0.711876171 s
+[debug] Java analysis took 0.020298411 s
+[debug] Java compile + analysis took 0.740648237 s
+[debug] Invalidating D:\intellij_Project\functioninscala2\leetcode\src\main\scala\Greedy\WordBreakII.scala...
+[debug] Invalidating (transitively) by inheritance from D:\intellij_Project\functioninscala2\leetcode\src\main\scala\Greedy\WordBreakII.scala...
+[debug] Initial set of included nodes: Set(D:\intellij_Project\functioninscala2\leetcode\src\main\scala\Greedy\WordBreakII.scala)
+[debug] Invalidated by transitive inheritance dependency: Set(D:\intellij_Project\functioninscala2\leetcode\src\main\scala\Greedy\WordBreakII.scala)
+[debug] The D:\intellij_Project\functioninscala2\leetcode\src\main\scala\Greedy\WordBreakII.scala source file has the following regular definitions changed:
+[debug] 	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, WordBreakII, ==, clone, toString, !=, getClass, ne, wordBreak, eq, ##, finalize, hashCode.
+[debug] All member reference dependencies will be considered within this context.
+[debug] Invalidating D:\intellij_Project\functioninscala2\leetcode\src\main\scala\Greedy\WordBreak.scala...
+[debug] Invalidating (transitively) by inheritance from D:\intellij_Project\functioninscala2\leetcode\src\main\scala\Greedy\WordBreak.scala...
+[debug] Initial set of included nodes: Set(D:\intellij_Project\functioninscala2\leetcode\src\main\scala\Greedy\WordBreak.scala)
+[debug] Invalidated by transitive inheritance dependency: Set(D:\intellij_Project\functioninscala2\leetcode\src\main\scala\Greedy\WordBreak.scala)
+[debug] The D:\intellij_Project\functioninscala2\leetcode\src\main\scala\Greedy\WordBreak.scala source file has the following regular definitions changed:
+[debug] 	wordBreak.
+[debug] All member reference dependencies will be considered within this context.
+[debug] Invalidating D:\intellij_Project\functioninscala2\leetcode\src\main\java\greedy\WordBreak.java...
+[debug] Invalidating (transitively) by inheritance from D:\intellij_Project\functioninscala2\leetcode\src\main\java\greedy\WordBreak.java...
+[debug] Initial set of included nodes: Set(D:\intellij_Project\functioninscala2\leetcode\src\main\java\greedy\WordBreak.java)
+[debug] Invalidated by transitive inheritance dependency: Set(D:\intellij_Project\functioninscala2\leetcode\src\main\java\greedy\WordBreak.java)
+[debug] The D:\intellij_Project\functioninscala2\leetcode\src\main\java\greedy\WordBreak.java source file has the following regular definitions changed:
+[debug] 	.
+[debug] All member reference dependencies will be considered within this context.
+[debug] New invalidations:
+[debug] 	Set()
+[debug] Initial set of included nodes: Set()
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] 	Set()
+[debug] All newly invalidated sources after taking into account (previously) recompiled sources:Set()
